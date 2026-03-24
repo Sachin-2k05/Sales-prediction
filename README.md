@@ -55,7 +55,6 @@ Dairy-Sales-Prediction/
 * MAE: 1296.540164999999
 * R2 Score: 0.9035981061787731
 
-*(Update these values based on your actual results — don’t fake it.)*
 
 ---
 
@@ -70,8 +69,6 @@ cd dairy-sales-prediction
 
 ### 2. Install Dependencies
 
-```bash
-pip install -r requirements.txt
 ```
 
 ### 3. Run the Project
